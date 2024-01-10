@@ -1,0 +1,24 @@
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+.imag {
+    width: auto;
+    height: auto;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.tablapasos{
+    border-collapse: collapse;
+}
+.tablaingredientes{
+    border-collapse: collapse;
+}
